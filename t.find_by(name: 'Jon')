@@ -1,0 +1,12 @@
+=> [[32m#<Artist:0x000055592488ef78[0m
+  id: [1;34m1[0m,
+  name: [31m[1;31m"[0m[31mJon[1;31m"[0m[31m[0m,
+  genre: [1;36mnil[0m,
+  age: [1;34m30[0m,
+  hometown: [1;36mnil[0m[32m>[0m,
+ [32m#<Artist:0x000055592488ee88[0m
+  id: [1;34m2[0m,
+  name: [31m[1;31m"[0m[31mKelly[1;31m"[0m[31m[0m,
+  genre: [1;36mnil[0m,
+  age: [1;36mnil[0m,
+  hometown: [1;36mnil[0m[32m>[0m]
